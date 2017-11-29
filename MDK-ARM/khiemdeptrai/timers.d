@@ -1,0 +1,16 @@
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+khiemdeptrai\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+khiemdeptrai\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+khiemdeptrai\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+khiemdeptrai\timers.o: ../Inc/FreeRTOSConfig.h
+khiemdeptrai\timers.o: ../Inc/main.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+khiemdeptrai\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
